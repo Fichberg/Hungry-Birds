@@ -1,10 +1,7 @@
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <strings.h>
-#include <time.h>
 #include <semaphore.h>
-#include <unistd.h>
 
 #define FOOD         20000
 #define BABY_BIRDS   8
